@@ -1,7 +1,7 @@
 ### Hello there, fellow human being 👋
 This is my github profile.
 Cool projects that I in some shape or form contributed to and like will be pinned.
-## Currently the only developer for my game, nodeAttack
+#### I have a website([http://koneko.cf](http://koneko.cf)), go check it out.
 Check out the [discord server.](https://discord.gg/bYrfPup) 😎
 And my [nertivia server.](https://nertivia.tk/invites/doTPrA) (unrelated)
 #### Hope you had a cool time visiting my profile :3
