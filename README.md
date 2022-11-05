@@ -1,10 +1,10 @@
 ### Hello there, fellow human being 👋
 This is my github profile.
 Cool projects that I in some shape or form contributed to and like will be pinned.
-#### I have a website([http://hub.koneko.link](http://hub.koneko.link)), go check it out.
-Check out the [discord server.](https://discord.gg/bYrfPup) 😎
-And my [nertivia server.](https://nertivia.tk/invites/doTPrA) (unrelated)
-#### Hope you had a cool time visiting my profile :3
+#### For more information check out my [website](https://koneko.rocks).
+My favorite color is yellow.
+
+#### Hope you had a good time visiting my profile :3
 
 
 
@@ -14,7 +14,7 @@ And my [nertivia server.](https://nertivia.tk/invites/doTPrA) (unrelated)
 **thekoneko/thekoneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+And my [nertivia server.](https://nertivia.tk/invites/doTPrA) (unrelated)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
