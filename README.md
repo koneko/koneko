@@ -1,10 +1,10 @@
 ### Hello there, fellow human being 👋
-This is my github profile/portfolio where I upload all of my works.
-My best works are here pinned, maybe not the best in terms of tech, but I really loved making them.
-I mostly work in javascript, but I am looking to broaden my skills.
-#### For more information check out my [website](https://koneko.rocks).
-
-#### Hope you had a good time visiting my profile :3
+This is my github profile/portfolio where I upload all of my works.  
+My best works are here pinned, maybe not the best in terms of tech, but I really loved making them.  
+I mostly work in javascript, but I am looking to broaden my skills.  
+#### For more information check out my [website](https://koneko.rocks).  
+  
+#### Hope you had a good time visiting my profile :3  
 
 
 
