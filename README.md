@@ -3,10 +3,16 @@ This is my github profile/portfolio where I upload all of my works.
 My best works are here pinned, maybe not the best in terms of tech, but I really loved making them.  
 I mostly work in javascript, but I am looking to broaden my skills.  
 #### For more information check out my [website](https://koneko.rocks).  
-  
-#### Hope you had a good time visiting my profile :3  
 
+## GitHub Stats
 
+![Koneko's GitHub stats](https://github-readme-stats.vercel.app/api?username=koneko&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koneko&layout=compact&theme=radical)
+
+Thanks for visiting my profile! Have a great day! 😊
 
 
 
